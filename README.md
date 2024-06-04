@@ -8,6 +8,8 @@ Docker
 Redis
 PostgreSQL
 
+deploy: https://catalogodefilmes-a823e252e147.herokuapp.com/
+
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
