@@ -44,6 +44,9 @@ wsl --install
 
 https://redis.io/docs/latest/operate/oss_and_stack/install/install-redis/install-redis-on-windows/****
 
+playlist no youtube fazendo
+https://www.youtube.com/watch?v=KsDm_FOXIds&list=PLEBb83J8qUvqkOTJyveYIQBivuARCy1lz&pp=gAQBiAQB
+
 
 # watch mode
 $ npm run start:dev
